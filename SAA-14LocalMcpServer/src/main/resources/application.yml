@@ -1,0 +1,11 @@
+server:
+  port: 8014
+  servlet:
+    encoding:
+      enabled: true
+      force: true
+      charset: UTF-8
+
+spring:
+  application:
+    name: SAA-14LocalMcpServer
